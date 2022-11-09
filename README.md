@@ -1,6 +1,6 @@
 ### Hi there! Edi here. 😄
 
-- 🌱 I’m currently learning JavaScript, HTML, CSS, Reactjs, Typescript,  React Native, Cloud, Python ...
+- 🌱 I’m currently learning JavaScript, HTML, CSS, Reactjs, Python, Shell, Cyber Security, Cloud ...
 - 🌱 Pronouns: she/her
 
 ##
